@@ -16,7 +16,7 @@ Si vous êtes français et voulez rejoindre mon serveur, rejoignez **[ce discord
 
 ## How to stream addon clothes and ped props for mp freemode models
 
-[That's how !](https://forum.cfx.re/t/how-to-streaming-addon-clothes-and-ped-props-for-mp-freemode-models/458854?u=tholeb) _(I'll need to have the same structure for the script to works like it should)_
+[That's how !](https://forum.cfx.re/t/how-to-streaming-addon-clothes-and-ped-props-for-mp-freemode-models/458854?u=tholeb) _(You'll need to have the same structure for the script to works like it should)_
 
 ## Requirements
 
