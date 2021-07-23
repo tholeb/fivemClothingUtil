@@ -1,3 +1,8 @@
+# Outfits
+outfits/*
+!outfits/.gitkeep
+output.json
+
 # Logs
 logs
 *.log
