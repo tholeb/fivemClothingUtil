@@ -12,7 +12,7 @@ A very simple Node.js script to create a JSON file for your modded outfits
 
 ## 🇫🇷 [FR] Mon serveur FiveM
 
-Si vous êtes français et voulez rejoindre mon serveur, rejoignez **[ce discord](http://discord.sunfive.fr)**. Si vous voulez plus d'informations, vous pouvez vous référer à [à ce post Fivem-France](https://fivem-france.net/t/presentation-vlife-roleplay-un-framework-unique-pour-un-roleplay-unique/3706/11), ou à **[cette page Top-Serveur](https://top-serveurs.net/gta/sunfive)**.
+Si vous êtes francophone et voulez rejoindre mon serveur, rejoignez **[ce discord](http://discord.sunfive.fr)**. Si vous voulez plus d'informations, vous pouvez vous référer à [à ce post Fivem-France](https://fivem-france.net/t/presentation-vlife-roleplay-un-framework-unique-pour-un-roleplay-unique/3706/11), ou à **[cette page Top-Serveur](https://top-serveurs.net/gta/sunfive)**.
 
 ## How to stream addon clothes and ped props for mp freemode models
 
