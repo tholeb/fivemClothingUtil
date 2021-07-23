@@ -1,0 +1,33 @@
+{
+  "name": "fivemutil",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A utility to create JSON files for your modded outfits ",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tholeb/fivemUtil.git"
+  },
+  "keywords": [
+    "fivem",
+    "util",
+    "modded",
+    "outifts",
+    "json"
+  ],
+  "author": "tholeb",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tholeb/fivemUtil/issues"
+  },
+  "homepage": "https://github.com/tholeb/fivemUtil#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  }
+}
