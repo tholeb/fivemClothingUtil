@@ -4,7 +4,6 @@ A very simple Node.js script to create a JSON file for your modded outfits
 
 <div>
     <p style="text-align:center">
-     <img alt="all downloads" src="https://img.shields.io/github/downloads/tholeb/fivemUtil/total">
      <img alt="Repo size" src="https://img.shields.io/github/languages/code-size/tholeb/fivemUtil">
      <img alt="License" src="https://img.shields.io/github/license/tholeb/fivemUtil">
      <img alt="version" src="https://img.shields.io/github/package-json/v/tholeb/fivemUtil">
